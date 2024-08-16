@@ -12,6 +12,14 @@
 #define IDI_HWSDISPLAYCHECK			107
 #define IDI_SMALL				108
 #define IDC_HWSDISPLAYCHECK			109
+
+#define IDS_TOOLTIP 110
+#define IDM_DEFPRINTER 111
+#define IDM_DEFSCREEN 112
+
+#define IDC_CONTEXTMENU 113
+
+
 #define IDC_MYICON				2
 #ifndef IDC_STATIC
 #define IDC_STATIC				-1
